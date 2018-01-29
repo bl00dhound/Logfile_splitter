@@ -1,0 +1,25 @@
+{
+  "name": "logfile_splitter",
+  "version": "1.0.0",
+  "description": "Tool for splitting log file.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node logfile_splitter.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bl00dhound/Logfile_splitter.git"
+  },
+  "keywords": [
+    "forever",
+    "split",
+    "logfile"
+  ],
+  "author": "bl00dhound",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bl00dhound/Logfile_splitter/issues"
+  },
+  "homepage": "https://github.com/bl00dhound/Logfile_splitter#readme",
+  "dependencies": {}
+}
